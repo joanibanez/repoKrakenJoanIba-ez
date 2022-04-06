@@ -3,3 +3,4 @@ Joan Ibañez Gimeno
 (C) Benvinguda a la branca02 Joan Ibañez
 (D) Modificació 02 Main Joan Ibañez
 (E) Afegim imatge a branca01 Joan Ibañez
+(F) Afegim imatge a branca 02 Joan Ibañez
